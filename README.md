@@ -1,3 +1,5 @@
+[![kugi's github stats](https://github-readme-stats.vercel.app/api?username=kugimasa)](https://github.com/kugimasa/github-readme-stats)
+
 ### Hi there 👋
 
 <!--
