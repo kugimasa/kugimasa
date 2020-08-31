@@ -1,7 +1,9 @@
-[![kugi's github stats](https://github-readme-stats.vercel.app/api?username=kugimasa)](https://github.com/kugimasa/github-readme-stats)
-
-### Hi there 👋
-
+<a href="https://github.com/kugimasa">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=kugimasa&show_icons=true&theme=vue-dark" />
+</a>
+<a href="https://github.com/kugimasa">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kugimasa&layout=compact&show_icons=true&theme=vue-dark" />
+</a>
 <!--
 **kugimasa/kugimasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
