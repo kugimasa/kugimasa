@@ -10,6 +10,9 @@
 <a href="https://github.com/kugimasa/OpenGL-Study">
   <img align="left" height="170px" src="https://github.com/kugimasa/OpenGL-Study/blob/master/Triangle/Triangle.gif" />
 </a>
+<a href="https://github.com/kugimasa/MyPygame">
+  <img align="left" height="170px" src="https://github.com/kugimasa/MyPygame/blob/master/Assets/cat_caught.gif" />
+</a>
 <a href="https://github.com/kugimasa/Groundwater-Scripts">
   <img align="left" height="170px" src="https://github.com/kugimasa/Groundwater-Scripts/blob/master/Groundwater.gif" />
 </a>
