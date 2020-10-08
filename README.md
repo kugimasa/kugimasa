@@ -1,5 +1,5 @@
 <a href="https://github.com/kugimasa">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=kugimasa&show_icons=true&theme=vue-dark" />
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=kugimasa&count_private=true&show_icons=true&theme=vue-dark" />
 </a>
 <a href="https://github.com/kugimasa">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kugimasa&layout=compact&show_icons=true&theme=vue-dark" />
