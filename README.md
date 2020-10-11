@@ -5,7 +5,7 @@
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kugimasa&layout=compact&show_icons=true&theme=vue-dark" />
 </a>
 <a href="https://github.com/kugimasa/RayTraceIn1Week">
-  <img align="left" height="170px" src="https://github.com/kugimasa/RayTraceIn1Week/blob/master/Tapioca/tapioca.png" />
+  <img align="left" height="170px" src="https://github.com/kugimasa/RayTraceIn1Week/blob/master/Tapioca/tapioca_square.png" />
 </a>
 <a href="https://github.com/kugimasa/OpenGL-Study">
   <img align="left" height="170px" src="https://github.com/kugimasa/OpenGL-Study/blob/master/Triangle/Triangle.gif" />
