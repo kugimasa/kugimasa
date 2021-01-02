@@ -1,5 +1,6 @@
-[![](https://raw.githubusercontent.com/kugimasa/kugimasa/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+<a href="https://github.com/kugimasa">
+  <img align="left" width="812px" src="https://raw.githubusercontent.com/kugimasa/kugimasa/master/profile-summary-card-output/default/0-profile-details.svg" />
+</a>
 <a href="https://github.com/kugimasa">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=kugimasa&count_private=true&show_icons=true&theme=vue-dark" />
 </a>
