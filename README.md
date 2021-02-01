@@ -25,6 +25,9 @@
 <a href="https://github.com/kugimasa/ClusterBee-Scripts">
   <img align="left" height="170px" src="https://github.com/kugimasa/ClusterBee-Scripts/blob/master/ClusterBee.gif" />
 </a>
+<a href="https://github.com/TeamAojilu/sukisukisukiman_u1w202012_akeru">
+  <img align="left" height="170px" src="https://github.com/TeamAojilu/sukisukisukiman_u1w202012_akeru/blob/reference/Documents/sukiman.gif" />
+</a>
 <a href="https://github.com/kugimasa/GOTCHA">
   <img align="left" height="340px" src="https://github.com/kugimasa/GOTCHA/blob/main/pig.gif" />
 </a>
