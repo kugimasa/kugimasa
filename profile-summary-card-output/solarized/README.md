@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/kugimasa/kugimasa/master/profile-summary-card-output/solarized/4-productive-time.svg)
+```
+
+    
